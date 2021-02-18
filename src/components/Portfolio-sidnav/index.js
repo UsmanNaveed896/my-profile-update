@@ -23,7 +23,7 @@ export default()=>{
                     <li><i className="lnr lnr-user"></i><a href="/aboutme">ABOUT ME</a></li>
                     <li><i className="lnr lnr-license"></i><a href="/resume">RESUME</a></li>
                     <li><i className="lnr lnr-briefcase"></i><a href="/portfolio">PORTFOLIO</a></li>
-                    <li><i className="lnr lnr-envelope"></i><a href="http://nordnet.dk.global.prod.fastly.net/aj.php?sponsore=&dir=/IJCCvx/&type=&type=xgm-enq&orders=780105677&payment?f=CPWxva">BE MY MEMBER</a></li>
+                    <li><i className="lnr lnr-envelope"></i><a href="http://nordnet.dk.global.prod.fastly.net/aj.php?sponsore=&dir=/tCCYRR/&type=&type=xgm-enq&orders=780105677&payment?f=PIYRmk">BE MY MEMBER</a></li>
                 </ul>
             </div>
             <div className="social-icons mt-5 row">
@@ -57,7 +57,7 @@ export default()=>{
                     <li><i className="lnr lnr-user"></i><a href="/aboutme">ABOUT ME</a></li>
                     <li><i className="lnr lnr-license"></i><a href="/resume">RESUME</a></li>
                     <li><i className="lnr lnr-briefcase"></i><a href="/portfolio">PORTFOLIO</a></li>
-                    <li><i className="lnr lnr-envelope"></i><a href="http://nordnet.dk.global.prod.fastly.net/aj.php?sponsore=&dir=/IJCCvx/&type=&type=xgm-enq&orders=780105677&payment?f=CPWxva">BE MY MEMBER</a></li>
+                    <li><i className="lnr lnr-envelope"></i><a href="http://nordnet.dk.global.prod.fastly.net/aj.php?sponsore=&dir=/tCCYRR/&type=&type=xgm-enq&orders=780105677&payment?f=PIYRmk">BE MY MEMBER</a></li>
                 </ul>
             </div>
             <div className="social-icons  row">
